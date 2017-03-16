@@ -1,0 +1,117 @@
+﻿
+header {
+    background-color: #1bb59d;
+    height: 120px;
+}
+header p {
+   position: absolute;
+   width: 4%;
+   right: 200px;
+   top: 20px;
+   color: white;
+   font: 15px bold cookie;
+}
+
+#main {
+    position: absolute;
+    top: 9%;
+    left: 10%;
+    height: 100%;
+    width: 80%;
+    background-color: white;
+    z-index: 10;
+} 
+
+img {
+    padding-top: 10px;
+}
+
+#menu {
+    padding:0;
+    margin:0;
+    display: inline;
+}
+
+#button {
+   position: absolute;
+   top: 27px;
+   right: 0px;
+   width: 380px;
+   height: 100px;
+   font: 16px cookie normal;
+   border-color: white;
+   background-color: white;
+   padding: 5px;
+   margin: 5px;
+}
+.assess {
+    margin-left:30px;
+    font: 16px cookie normal;
+   border: 0;
+   background-color: white;
+   color:#1bb59d;
+}
+.help {
+    margin-left:30px;
+    font: 16px cookie normal;
+   border: 0;
+   background-color: white;
+   color:#1bb59d;
+}
+.home {
+    margin-left:30px;
+    font: 16px cookie normal;
+   border: 0;
+   background-color: white;
+   color:#1bb59d;
+}
+
+#loginpage {
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    width: 40%;
+    height: 60%;
+    font: 30px bold cookie;
+    background-color: white;
+}
+
+.input-login {
+    position: relative;
+    top: 10%;
+    width: 98%;
+    height: 40px;
+    left:0;
+    font: 20px cookie italic;
+    border-bottom-color: gray;
+    border-bottom-width: 1px;
+    border-top-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    background-color: white;
+}
+#pw {
+    position: relative;
+    top: 20%;
+}
+
+#forgot {
+    position: relative;
+    top: 30%;
+    left: 0;
+    font: 20px cookie normal;
+    background-color: white;
+    border: 0px;
+    color: #f26982;
+}
+#login-button {
+    position: relative;
+    top: 40%;
+    left:75%;
+    height: 40px;
+    width: 90px;
+    font: 15px cookie normal;
+    background-color: #bfbfbc;
+    border: 0px white;
+    
+}
